@@ -6,7 +6,7 @@
 
 I am a 2nd year student in Computer Science and Engineering  at Leading University. I like to play cricket and football. I also like to travel.
 
-Skills: JAVA / HTML / CSS
+Skill : Java, C, C++
 
 - 🔭 I’m currently working on Blogger 
 - 🌱 I’m currently learning JavaScript 
