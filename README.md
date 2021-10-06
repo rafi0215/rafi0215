@@ -1,20 +1,20 @@
-https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/170154984_2906170646371871_3495922987913936105_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=H8we7MKlYpYAX94wmSL&_nc_ht=scontent.fdac8-1.fna&oh=9ef2981c1c4c0490b8d8a3305ca2a4b2&oe=618216D6
+![Student](https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/120458425_2751779171811020_8696800858138328423_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=8qibN5cuNfQAX_98nIZ&_nc_ht=scontent.fdac8-1.fna&oh=07e0db67d86450813f8d642facc2464e&oe=61840C25)
+
 ### Hi there 👋, I'm Hasan Mohammad Rafi
 #### Student
 
 
-I am a 2nd year student in Computer Science and Engineering  at Leading University. I like to play cricket and football. I also like to travel.
+I am a 2nd year student in Computer Science and Engineering at Leading University. I like to play cricket and football. I also like to travel.
 
-Skill : Java, C, C++
+Skills: Java, C, C++
 
-- 🔭 I’m currently working on Blogger 
+- 🔭 I’m currently working on Blogger  
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Begineer 
-- 📫 How to reach me: Facebook, Instagram, Youtube 
+- 💬 Ask me about Beginner 
+- 📫 How to reach me:  Facebook, Instagram, Youtube 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi0215)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Hasan Mohammad Rafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raa_fii_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/raa_fii_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Hasan Mohammad Rafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.blogger.com/blog/posts/6954756693010458264)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafi0215)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Hasan Mohammad Rafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raa_fii_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Hasan Mohammad Rafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hasanmohammadrafi.blogspot.com/2021/06/blog-post.html)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
